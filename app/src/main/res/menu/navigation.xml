@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_you"
+        android:icon="@drawable/foryou"
+        android:title="@string/title_you" />
+
+    <item
+        android:id="@+id/navigation_categories"
+        android:icon="@drawable/categories"
+        android:title="@string/title_categories" />
+
+    <item
+        android:id="@+id/navigation_bag"
+        android:icon="@drawable/bag"
+        android:title="@string/title_bag" />
+
+</menu>

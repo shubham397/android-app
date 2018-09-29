@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tredy Foods</string>
+    <string name="title_you">For You</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_bag">Bag</string>
+    <string name="title_whishlist">Whislist</string>
+    <string name="dollar">$</string>
+    <string name="facebook_app_id">259137058253282</string>
+    <string name="fb_login_protocol_scheme">fb259137058253282</string>
+    <string name="buy">Buy Now @ </string>
+    <string name="Rs">\u20B9</string>
+    <string name="link"><u>Please remove them to continue.</u></string>
+</resources>

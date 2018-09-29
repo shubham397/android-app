@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ee3f6d</color>
+    <color name="colorPrimaryDark">#3b3a3a</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="navigation">#ee3f6d</color>
+    <color name="appcolor">#614d4b</color>
+    <color name="grey">#f1f1f1</color>
+    <color name="grey_dark">#e2e2e2</color>
+    <color name="white">#ffff</color>
+    <color name="black">#000</color>
+    <color name="textcolor">#614D4B</color>
+    <color name="cost">#4B473F</color>
+    <color name="colorAccentlight">#cf3368</color>
+</resources>
