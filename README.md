@@ -1,1 +1,0 @@
-# Trendy Android App
